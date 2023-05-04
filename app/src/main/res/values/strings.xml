@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TalkBuddy</string>
+    <string name="Talkbuddy">TalkBuddy</string>
+    <string name="login">Login To Continue</string>
+    <string name="phonenumber">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="Create_New_account">Create New Account</string>
+    <string name="SignIn">Sign In</string>
+    <string name="addimage">Add Image</string>
+    <string name="name">Enter Name</string>
+    <string name="SelctUSer">Select User</string>
+    <string name="TypeMessage">Type Message</string>
+</resources>
